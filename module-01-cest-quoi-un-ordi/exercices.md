@@ -1,23 +1,33 @@
-# Module 1 — Exercices
+Module 1 — Exercices
+Exercice 1
 
-## Exercice 1
-Écris les instructions, étape par étape, pour **faire un sandwich**.
+Écris les instructions, étape par étape, pour faire un sandwich.
 
-*(Réponds ici :)*
+(Réponds ici :)
 1.
 2.
 3.
 
-## Exercice 2
-Écris les instructions pour **se brosser les dents**.
+Exercice 2
 
-*(Réponds ici :)*
+Écris les instructions pour se brosser les dents.
+
+(Réponds ici :)
 1.
 2.
 3.
 
-## 🧩 Défi (bonus)
-Écris les étapes pour qu'un robot **fasse son lit**. Attention : le robot ne comprend RIEN s'il n'y a pas une instruction précise pour chaque petit geste !
+🧩 Défi (bonus)
 
-## 🐛 Trouve le bug
+Écris les étapes pour qu'un robot fasse son lit. Attention : le robot ne comprend RIEN s'il n'y a pas une instruction précise pour chaque petit geste !
+
+🐛 Trouve le bug
+
 Glitch a écrit un programme pour préparer un bol de céréales, mais il a fait une erreur :
+
+Début
+  Prendre un bol
+  Verser le lait
+Fin
+
+Qu'est-ce qui manque ? Corrige le programme de Glitch.
