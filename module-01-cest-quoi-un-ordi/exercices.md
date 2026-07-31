@@ -31,3 +31,4 @@ Début
 Fin
 
 Qu'est-ce qui manque ? Corrige le programme de Glitch.
+Corrigé parent : l'important n'est pas la formulation exacte mais que chaque étape nécessaire soit présente et dans un ordre logique. Pour le bug, il manque "ajouter les céréales" (avant ou après le lait, à discuter avec elle — bon prétexte pour parler de l'ordre qui compte parfois, et parfois non !).
